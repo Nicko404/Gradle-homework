@@ -1,2 +1,2 @@
-rootProject.name = "Gradle-homework"
+rootProject.name = "utils"
 
